@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pablo Rodríguez Montalvo
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Me llamo Pablo Rodríguez Montalvo
 ================================================================================================================================================
 
 Cloud Solution Developer
@@ -6,11 +6,11 @@ Cloud Solution Developer
 
 Llevo trabajando con tecnologías de Microsoft los últimos 10 años
 
-* 🌍  I'm based in Madrid
-* 🖥️  See my portfolio at [Mi Web](http://pmontalvo.me)
-* ✉️  You can contact me at [pablo.rodriguez@tajamar365.com](mailto:pablo.rodriguez@tajamar365.com)
-* 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on Small indie projects
+* 🌍  Estoy afincado en Madrid
+* 🖥️  Puedes ver mi CV en [Mi Web](http://pmontalvo.me)
+* ✉️  Puedes contactarme en [pablo.rodriguez@tajamar365.com](mailto:pablo.rodriguez@tajamar365.com)
+* 🧠  Estoy aprendiendo Flutter
+* 🤝  Estoy abierto a colaborar con pequeños proyectos open source
 
 <a href="https://www.twitch.tv/elbostwinsen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/elbostwinsen?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
