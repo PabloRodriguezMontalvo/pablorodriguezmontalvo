@@ -48,4 +48,4 @@ src="https://img.shields.io/twitch/status/elbostwinsen?logo=twitchsx&style=for-t
 
 <a href="http://www.github.com/PabloRodriguezMontalvo"><img src="https://github-readme-stats.vercel.app/api?username=PabloRodriguezMontalvo&theme=radical" alt="PabloRodriguezMontalvo's GitHub stats" /></a>
 
-<a href="https://github.com/PabloRodriguezMontalvo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRodriguezMontalvo&theme=radical&locale=es&custom_title=%Used%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/PabloRodriguezMontalvo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRodriguezMontalvo&theme=radical&locale=es&custom_title=Used%20%Languages" alt="Top Languages" /></a>
