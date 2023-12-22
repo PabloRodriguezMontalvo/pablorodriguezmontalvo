@@ -9,7 +9,7 @@ Llevo trabajando con tecnologías de Microsoft los últimos 10 años
 * 🌍  Estoy afincado en Madrid
 * 🖥️  Puedes ver mi CV en [Mi Web](http://pmontalvo.me)
 * ✉️  Puedes contactarme en [pablo.rodriguez@tajamar365.com](mailto:pablo.rodriguez@tajamar365.com)
-* 🧠  Estoy aprendiendo Flutter
+* 🧠  Estoy aprendiendo Python
 * 🤝  Estoy abierto a colaborar con pequeños proyectos open source
 
 <a href="https://www.twitch.tv/elbostwinsen" target="_blank" rel="noreferrer"><img
